@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build/test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Project outputs
+proyecto/salida/*.xlsx
+proyecto/salida/~$*.xlsx

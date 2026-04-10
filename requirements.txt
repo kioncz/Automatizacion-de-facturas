@@ -1,0 +1,8 @@
+easyocr
+opencv-python
+pdfplumber
+pdf2image
+Pillow
+pdfminer.six
+openpyxl
+numpy
